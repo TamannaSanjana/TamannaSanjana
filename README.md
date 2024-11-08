@@ -2,9 +2,9 @@
 <h3 align="center">A passionate Coder from Bangladesh</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tamannasanjana&label=Profile%20views&color=0e75b6&style=flat" alt="tamannasanjana" /> </p>
 
-- 🔭 I’m currently working on **Take a trip**
+- 🔭 I’m currently working on **Comecial Websites**
 
-- 💬 Ask me about **C,C++**
+- 💬 Ask me about **C,C++,Html,CSS,Java script**
 
 - 📫 How to reach me **tamannasanjana57@gmail.com**
 
